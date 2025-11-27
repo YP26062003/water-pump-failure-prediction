@@ -1,0 +1,6 @@
+########### GradientBoostingClassifier: None + TargetEncoder ###########
+Cross-validation scores: [0.77415825 0.77584175 0.77920875 0.7729798  0.77685185]
+Mean cross-validation score: 0.775808080808081
+Training set accuracy: 0.7945
+Duration of 5-fold cross-validation: 1050.30 seconds
+Duration of training on the whole data: 42.83 seconds

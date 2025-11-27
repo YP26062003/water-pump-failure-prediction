@@ -1,0 +1,6 @@
+########### MLPClassifier: None + OrdinalEncoder ###########
+Cross-validation scores: [0.60159933 0.56422559 0.58745791 0.53358586 0.46119529]
+Mean cross-validation score: 0.5496127946127946
+Training set accuracy: 0.5249
+Duration of 5-fold cross-validation: 560.15 seconds
+Duration of training on the whole data: 48.95 seconds

@@ -1,0 +1,6 @@
+########### GradientBoostingClassifier: None + OneHotEncoder ###########
+Cross-validation scores: [0.76262626 0.76144781 0.76102694 0.76372054 0.76102694]
+Mean cross-validation score: 0.761969696969697
+Training set accuracy: 0.7674
+Duration of 5-fold cross-validation: 756.68 seconds
+Duration of training on the whole data: 46.42 seconds

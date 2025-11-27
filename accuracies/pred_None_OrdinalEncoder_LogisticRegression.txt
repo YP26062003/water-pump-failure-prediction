@@ -1,0 +1,6 @@
+########### LogisticRegression: None + OrdinalEncoder ###########
+Cross-validation scores: [0.53434343 0.53720539 0.54158249 0.52550505 0.53855219]
+Mean cross-validation score: 0.5354377104377105
+Training set accuracy: 0.5582
+Duration of 5-fold cross-validation: 554.43 seconds
+Duration of training on the whole data: 45.84 seconds

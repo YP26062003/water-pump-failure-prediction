@@ -1,0 +1,6 @@
+########### MLPClassifier: None + TargetEncoder ###########
+Cross-validation scores: [0.73400673 0.73585859 0.71321549 0.64755892 0.74739057]
+Mean cross-validation score: 0.7156060606060606
+Training set accuracy: 0.7404
+Duration of 5-fold cross-validation: 481.97 seconds
+Duration of training on the whole data: 131.38 seconds

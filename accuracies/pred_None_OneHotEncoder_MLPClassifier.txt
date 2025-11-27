@@ -1,0 +1,6 @@
+########### MLPClassifier: None + OneHotEncoder ###########
+Cross-validation scores: [0.77020202 0.7297138  0.75286195 0.75353535 0.78459596]
+Mean cross-validation score: 0.7581818181818182
+Training set accuracy: 0.8147
+Duration of 5-fold cross-validation: 3587.32 seconds
+Duration of training on the whole data: 47.73 seconds

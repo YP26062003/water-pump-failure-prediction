@@ -1,0 +1,6 @@
+########### LogisticRegression: StandardScaler + OneHotEncoder ###########
+Cross-validation scores: [0.78518519 0.78097643 0.78484848 0.77929293 0.78207071]
+Mean cross-validation score: 0.7824747474747473
+Training set accuracy: 0.8111
+Duration of 5-fold cross-validation: 886.48 seconds
+Duration of training on the whole data: 105.44 seconds

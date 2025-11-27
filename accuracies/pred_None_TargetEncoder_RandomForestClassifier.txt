@@ -1,0 +1,6 @@
+########### RandomForestClassifier: None + TargetEncoder ###########
+Cross-validation scores: [0.80867003 0.80454545 0.80841751 0.80420875 0.8030303 ]
+Mean cross-validation score: 0.8057744107744108
+Training set accuracy: 0.8728
+Duration of 5-fold cross-validation: 501.90 seconds
+Duration of training on the whole data: 43.04 seconds

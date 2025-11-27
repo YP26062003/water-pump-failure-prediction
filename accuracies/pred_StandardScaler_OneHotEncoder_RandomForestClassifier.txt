@@ -1,0 +1,6 @@
+########### RandomForestClassifier: StandardScaler + OneHotEncoder ###########
+Cross-validation scores: [0.80488215 0.80597643 0.80791246 0.8043771  0.80757576]
+Mean cross-validation score: 0.8061447811447813
+Training set accuracy: 0.9996
+Duration of 5-fold cross-validation: 1386.65 seconds
+Duration of training on the whole data: 42.90 seconds

@@ -1,0 +1,6 @@
+########### HistGradientBoostingClassifier: StandardScaler + TargetEncoder ###########
+Cross-validation scores: [0.79604377 0.79175084 0.79949495 0.79503367 0.79705387]
+Mean cross-validation score: 0.795875420875421
+Training set accuracy: 0.8290
+Duration of 5-fold cross-validation: 633.97 seconds
+Duration of training on the whole data: 51.53 seconds

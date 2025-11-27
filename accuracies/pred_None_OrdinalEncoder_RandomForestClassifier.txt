@@ -1,0 +1,6 @@
+########### RandomForestClassifier: None + OrdinalEncoder ###########
+Cross-validation scores: [0.80420875 0.80387205 0.80883838 0.80589226 0.80850168]
+Mean cross-validation score: 0.8062626262626263
+Training set accuracy: 0.9996
+Duration of 5-fold cross-validation: 566.83 seconds
+Duration of training on the whole data: 56.63 seconds

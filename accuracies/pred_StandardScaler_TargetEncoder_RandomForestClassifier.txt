@@ -1,0 +1,6 @@
+########### RandomForestClassifier: StandardScaler + TargetEncoder ###########
+Cross-validation scores: [0.80757576 0.80538721 0.80782828 0.8016835  0.80420875]
+Mean cross-validation score: 0.8053367003367005
+Training set accuracy: 0.8744
+Duration of 5-fold cross-validation: 996.92 seconds
+Duration of training on the whole data: 46.48 seconds

@@ -1,0 +1,6 @@
+########### HistGradientBoostingClassifier: StandardScaler + OrdinalEncoder ###########
+Cross-validation scores: [0.78569024 0.78804714 0.78771044 0.78190236 0.79124579]
+Mean cross-validation score: 0.7869191919191919
+Training set accuracy: 0.8227
+Duration of 5-fold cross-validation: 798.00 seconds
+Duration of training on the whole data: 56.28 seconds

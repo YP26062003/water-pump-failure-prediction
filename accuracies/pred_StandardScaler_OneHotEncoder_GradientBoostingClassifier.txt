@@ -1,0 +1,6 @@
+########### GradientBoostingClassifier: StandardScaler + OneHotEncoder ###########
+Cross-validation scores: [0.76271044 0.76203704 0.76102694 0.76338384 0.76102694]
+Mean cross-validation score: 0.7620370370370371
+Training set accuracy: 0.7674
+Duration of 5-fold cross-validation: 818.70 seconds
+Duration of training on the whole data: 54.23 seconds

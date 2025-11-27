@@ -1,0 +1,6 @@
+########### LogisticRegression: None + OneHotEncoder ###########
+Cross-validation scores: [0.57651515 0.57659933 0.58905724 0.57171717 0.56877104]
+Mean cross-validation score: 0.5765319865319866
+Training set accuracy: 0.5800
+Duration of 5-fold cross-validation: 644.73 seconds
+Duration of training on the whole data: 50.99 seconds

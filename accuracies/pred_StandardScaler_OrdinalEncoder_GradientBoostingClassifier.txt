@@ -1,0 +1,6 @@
+########### GradientBoostingClassifier: StandardScaler + OrdinalEncoder ###########
+Cross-validation scores: [0.7543771  0.75109428 0.75547138 0.7496633  0.7540404 ]
+Mean cross-validation score: 0.752929292929293
+Training set accuracy: 0.7575
+Duration of 5-fold cross-validation: 803.28 seconds
+Duration of training on the whole data: 48.79 seconds

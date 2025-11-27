@@ -1,0 +1,6 @@
+########### LogisticRegression: StandardScaler + TargetEncoder ###########
+Cross-validation scores: [0.75631313 0.75622896 0.75681818 0.75547138 0.75597643]
+Mean cross-validation score: 0.7561616161616163
+Training set accuracy: 0.7766
+Duration of 5-fold cross-validation: 768.53 seconds
+Duration of training on the whole data: 47.76 seconds
